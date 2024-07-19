@@ -1,6 +1,6 @@
 open_update = True
 source_file = "user_demo.txt"
-final_file = "result.txt"
+final_file = "user_result.txt"
 favorite_list = [
     "广东珠江",
     "CCTV-1",
