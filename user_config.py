@@ -35,8 +35,9 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/j_home.txt",
     "https://m3u.ibert.me/txt/cn.txt",
     "https://m3u.ibert.me/txt/o_all.txt",
-    "https://m3u.ibert.me/txt/q_bj_iptv_mobile.txt",
-    "https://iptv.b2og.com/txt/fmml_ipv6.txt",    
+    "https://iptv.b2og.com/txt/fmml_ipv6.txt",
+    "https://iptv.b2og.com/txt/q_bj_iptv_unicom.txt",  
+    "https://iptv.b2og.com/txt/cn.txt", 
 ]
 open_multicast = True
 region_list = ["all"]
