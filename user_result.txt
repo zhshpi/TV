@@ -262,11 +262,11 @@ ELEVEN体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798
 凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -298,8 +298,8 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
