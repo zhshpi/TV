@@ -31,7 +31,7 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/ycl_iptv.txt",
     "https://m3u.ibert.me/txt/o_cn.txt",
     "https://m3u.ibert.me/txt/j_iptv.txt",
-    "hhttps://m3u.ibert.me/txt/y_g.txt",
+    "https://m3u.ibert.me/txt/y_g.txt",
     "https://m3u.ibert.me/txt/j_home.txt",
     "https://m3u.ibert.me/txt/cn.txt",
     "https://m3u.ibert.me/txt/o_all.txt",
