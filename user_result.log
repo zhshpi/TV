@@ -201,158 +201,36 @@ Name: 欧美影院, URL: http://[2409:8087:7001:20:1000::95]:6610/000000001000/7
 Name: 亚洲影院, URL: http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3, Date: None, Resolution: None, Response Time: inf ms
 Name: 院线影视, URL: http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏移动4K影视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 117 ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 120 ms
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 120 ms
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 121 ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 159 ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 115 ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 116 ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 117 ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 118 ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 119 ms
 Name: TVBS新闻, URL: http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: TVBS新闻, URL: http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: TVBS新闻, URL: http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: TVBS新闻, URL: http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: TVBS新闻, URL: http://38.64.72.148/hls/modn/list/4006/playlist.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 漳浦综合, URL: http://220.161.87.62:8090/hls/0/index.m3u8?zfud, Date: None, Resolution: None, Response Time: 485 ms
 Name: 星河台, URL: http://113.117.74.12:8081/hls/135/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 漳浦综合, URL: http://220.161.87.62:8090/hls/0/index.m3u8?zfud, Date: None, Resolution: None, Response Time: 508 ms
-Name: 湖南娱乐, URL: http://222.241.154.37:9901/tsfile/live/23023_1.m3u8, Date: None, Resolution: None, Response Time: 841 ms
-Name: 湖南爱晚, URL: http://222.241.154.37:9901/tsfile/live/23022_1.m3u8, Date: None, Resolution: None, Response Time: 862 ms
-Name: 湖南国际, URL: http://222.241.154.37:9901/tsfile/live/23024_1.m3u8, Date: None, Resolution: None, Response Time: 859 ms
-Name: 湖南视剧, URL: http://222.241.154.37:9901/tsfile/live/23026_1.m3u8, Date: None, Resolution: None, Response Time: 871 ms
-Name: 湖南都市, URL: http://222.241.154.37:9901/tsfile/live/23021_1.m3u8, Date: None, Resolution: None, Response Time: 873 ms
-Name: 湖南经视, URL: http://222.241.154.37:9901/tsfile/live/23020_1.m3u8, Date: None, Resolution: None, Response Time: 882 ms
-Name: 湖南电影, URL: http://222.241.154.37:9901/tsfile/live/23025_1.m3u8, Date: None, Resolution: None, Response Time: 891 ms
-Name: 湖南教育, URL: http://222.241.154.37:9901/tsfile/live/23027_1.m3u8, Date: None, Resolution: None, Response Time: 888 ms
-Name: 文化精品, URL: http://mail.petzhu.top:7000/rtp/239.254.201.229:7260, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-4K, URL: http://liveop.cctv.cn/hls/4KHD/playlist.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 宁夏卫视, URL: https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8, Date: None, Resolution: None, Response Time: 2014 ms
-Name: 明珠台, URL: http://r.jdshipin.com/ZQ4kN, Date: None, Resolution: None, Response Time: inf ms
-Name: 美亚C+, URL: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8, Date: None, Resolution: None, Response Time: 2365 ms
-Name: 第一卫视, URL: http://play2.one-tv.com/live/onetv.m3u8, Date: None, Resolution: None, Response Time: 2596 ms
-Name: 浙江少儿, URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, Date: None, Resolution: None, Response Time: 3196 ms
-Name: 凤凰香港, URL: http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江新闻, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, Date: None, Resolution: None, Response Time: 3222 ms
-Name: 浙江国际, URL: https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8, Date: None, Resolution: None, Response Time: 3239 ms
-Name: 兵团卫视, URL: http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202, Date: None, Resolution: None, Response Time: 3414 ms
-Name: 东莞新闻, URL: https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8, Date: None, Resolution: None, Response Time: 3512 ms
-Name: 浙江经济, URL: https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8, Date: None, Resolution: None, Response Time: 3555 ms
-Name: 浙江民生, URL: https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8, Date: None, Resolution: None, Response Time: 3567 ms
-Name: 浙江钱江, URL: https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8, Date: None, Resolution: None, Response Time: 3585 ms
-Name: 东莞生活, URL: https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8, Date: None, Resolution: None, Response Time: 3613 ms
-Name: 浙江教科, URL: https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8, Date: None, Resolution: None, Response Time: 3604 ms
-Name: 之江纪录, URL: https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8, Date: None, Resolution: None, Response Time: 3631 ms
-Name: CNA, URL: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8, Date: None, Resolution: None, Response Time: 2845 ms
-Name: AXS TV Now, URL: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8, Date: None, Resolution: None, Response Time: 1937 ms
-Name: 云霄综合, URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian, Date: None, Resolution: None, Response Time: 3679 ms
-Name: 龙岩公共, URL: http://live.lytv.net.cn/ggpd/sd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 龙岩综合, URL: http://live.lytv.net.cn/zhpwd/hd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: Al Jazeera, URL: http://live-hls-web-aje.getaj.net/AJE/01.m3u8, Date: None, Resolution: None, Response Time: 630 ms
-Name: 宁化电视一套, URL: http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian, Date: None, Resolution: None, Response Time: 3779 ms
-Name: TBS, URL: http://143.244.60.30/TBS/index.m3u8, Date: None, Resolution: None, Response Time: 9 ms
-Name: Fashion TV, URL: http://91.247.68.229:8000/play/Fashion/index.m3u8, Date: None, Resolution: None, Response Time: 331 ms
-Name: Love Nature, URL: https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8, Date: None, Resolution: None, Response Time: 442 ms
-Name: Africa News, URL: https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 1446 ms
-Name: 三明综合, URL: http://stream.smntv.cn/smtv1/sd/live.m3u8, Date: None, Resolution: None, Response Time: 3895 ms
-Name: 三明公共频道, URL: http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud, Date: None, Resolution: None, Response Time: 3900 ms
-Name: 三明公共, URL: http://stream.smntv.cn/smtv2/sd/live.m3u8, Date: None, Resolution: None, Response Time: 3918 ms
-Name: 三明新闻综合, URL: http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud, Date: None, Resolution: None, Response Time: 3792 ms
-Name: 三明新闻综合, URL: http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud, Date: None, Resolution: None, Response Time: 3929 ms
-Name: Fight Network, URL: https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8, Date: None, Resolution: None, Response Time: 433 ms
-Name: Newsmax, URL: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8, Date: None, Resolution: None, Response Time: 2132 ms
-Name: CBN News, URL: https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8, Date: None, Resolution: None, Response Time: 2163 ms
-Name: Kids TV, URL: https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 543 ms
-Name: [福建]建宁综合频道, URL: https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud, Date: None, Resolution: None, Response Time: 4082 ms
-Name: BBC Earth, URL: https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8, Date: None, Resolution: None, Response Time: 216 ms
-Name: TED Talks, URL: https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 225 ms
-Name: Wild Earth, URL: https://wildearth-plex.amagi.tv/masterR1080p.m3u8, Date: None, Resolution: None, Response Time: 633 ms
-Name: History, URL: https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8, Date: None, Resolution: None, Response Time: 267 ms
-Name: SportsGrid, URL: https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 456 ms
-Name: WionNews, URL: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8, Date: None, Resolution: None, Response Time: 3381 ms
-Name: LoveStories, URL: https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 206 ms
-Name: Ondemand China, URL: https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 169 ms
-Name: Mytime, URL: https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top, Date: None, Resolution: None, Response Time: 283 ms
-Name: Travel XP, URL: https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 206 ms
-Name: FOX, URL: https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8, Date: None, Resolution: None, Response Time: 3476 ms
-Name: Taiwan Plus, URL: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8, Date: None, Resolution: None, Response Time: 377 ms
-Name: Yu-Gi-Oh, URL: https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 160 ms
-Name: Scripps News, URL: https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8, Date: None, Resolution: None, Response Time: 3471 ms
-Name: BBC, URL: https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8, Date: None, Resolution: None, Response Time: 3540 ms
-Name: Food, URL: https://food-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 166 ms
-Name: Trace Sports, URL: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8, Date: None, Resolution: None, Response Time: 618 ms
-Name: ComedyDynamics, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 456 ms
-Name: La La Life, URL: https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8, Date: None, Resolution: None, Response Time: 179 ms
-Name: Museum, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 426 ms
-Name: 漳州新闻, URL: http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8, Date: None, Resolution: None, Response Time: 4401 ms
-Name: NBC, URL: https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8, Date: None, Resolution: None, Response Time: 3612 ms
-Name: Rakuten Viki, URL: https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 216 ms
-Name: 漳州新闻综合, URL: http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud, Date: None, Resolution: None, Response Time: 4414 ms
-Name: Rakuten British Films, URL: https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 161 ms
-Name: Rakuten Comedy, URL: https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 220 ms
-Name: Rakuten Action, URL: https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 190 ms
-Name: Global Fashion Channel, URL: https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 172 ms
-Name: Rakuten Thriller, URL: https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 210 ms
-Name: GB News, URL: https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8, Date: None, Resolution: None, Response Time: 2604 ms
-Name: Billiards TV, URL: https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 217 ms
-Name: SkyNews, URL: https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8, Date: None, Resolution: None, Response Time: 3697 ms
-Name: Young Hollywood, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 391 ms
-Name: ION Plus, URL: https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8, Date: None, Resolution: None, Response Time: 1383 ms
-Name: Bloomberg Originals, URL: https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8, Date: None, Resolution: None, Response Time: 1451 ms
-Name: Clarity 4K, URL: https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8, Date: None, Resolution: None, Response Time: 1121 ms
-Name: MovieSphere, URL: https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8, Date: None, Resolution: None, Response Time: 943 ms
-Name: NBC Sport, URL: https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8, Date: None, Resolution: None, Response Time: 1057 ms
-Name: Xplore, URL: https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8, Date: None, Resolution: None, Response Time: 1200 ms
-Name: Stadium, URL: https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8, Date: None, Resolution: None, Response Time: 1125 ms
-Name: New KPOP, URL: https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 504 ms
-Name: FIFA+, URL: https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8, Date: None, Resolution: None, Response Time: 1156 ms
-Name: CNN, URL: https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8, Date: None, Resolution: None, Response Time: 4033 ms
-Name: RT Documentary, URL: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8, Date: None, Resolution: None, Response Time: 949 ms
-Name: Tastemade, URL: https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8, Date: None, Resolution: None, Response Time: 1131 ms
-Name: RT News, URL: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8, Date: None, Resolution: None, Response Time: 2633 ms
-Name: 翡翠台, URL: http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv, Date: None, Resolution: None, Response Time: 1876 ms
-Name: 翡翠台, URL: https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 翡翠台, URL: http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e, Date: None, Resolution: None, Response Time: inf ms
-Name: 翡翠台, URL: http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187, Date: None, Resolution: None, Response Time: inf ms
-Name: 翡翠台, URL: http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: Arirang, URL: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8, Date: None, Resolution: None, Response Time: 1931 ms
-Name: 凤凰中文, URL: http://pi.0472.org/tv/cbn.php?id=xfjcHD, Date: None, Resolution: None, Response Time: 4230 ms
-Name: 凤凰中文, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 凤凰中文, URL: http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068, Date: None, Resolution: None, Response Time: inf ms
-Name: 爱尔达体育, URL: http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0, Date: None, Resolution: None, Response Time: inf ms
-Name: 爱尔达体育, URL: http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab, Date: None, Resolution: None, Response Time: inf ms
+Name: 湖南爱晚, URL: http://222.241.154.37:9901/tsfile/live/23022_1.m3u8, Date: None, Resolution: None, Response Time: 3850 ms
+Name: 湖南经视, URL: http://222.241.154.37:9901/tsfile/live/23020_1.m3u8, Date: None, Resolution: None, Response Time: 3846 ms
+Name: 湖南娱乐, URL: http://222.241.154.37:9901/tsfile/live/23023_1.m3u8, Date: None, Resolution: None, Response Time: 3847 ms
+Name: 湖南都市, URL: http://222.241.154.37:9901/tsfile/live/23021_1.m3u8, Date: None, Resolution: None, Response Time: 3853 ms
+Name: 湖南国际, URL: http://222.241.154.37:9901/tsfile/live/23024_1.m3u8, Date: None, Resolution: None, Response Time: 3854 ms
+Name: 湖南电影, URL: http://222.241.154.37:9901/tsfile/live/23025_1.m3u8, Date: None, Resolution: None, Response Time: 3858 ms
+Name: 湖南视剧, URL: http://222.241.154.37:9901/tsfile/live/23026_1.m3u8, Date: None, Resolution: None, Response Time: 3864 ms
+Name: 湖南教育, URL: http://222.241.154.37:9901/tsfile/live/23027_1.m3u8, Date: None, Resolution: None, Response Time: 3882 ms
 Name: ELEVEN体育, URL: http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23, Date: None, Resolution: None, Response Time: inf ms
 Name: ELEVEN体育, URL: http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120, Date: None, Resolution: None, Response Time: inf ms
+Name: 爱尔达体育, URL: http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0, Date: None, Resolution: None, Response Time: inf ms
+Name: 爱尔达体育, URL: http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab, Date: None, Resolution: None, Response Time: inf ms
 Name: TVBS欢乐, URL: http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219, Date: None, Resolution: None, Response Time: inf ms
-Name: The Lego Channel, URL: https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8, Date: None, Resolution: None, Response Time: 1286 ms
-Name: 斗鱼4K影院, URL: http://epg.112114.xyz/douyu/9249162, Date: None, Resolution: None, Response Time: 5147 ms
-Name: Comedy Hub, URL: https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8, Date: None, Resolution: None, Response Time: 1306 ms
-Name: Vevo Pop, URL: https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8, Date: None, Resolution: None, Response Time: 2390 ms
-Name: 纬来体育, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8, Date: None, Resolution: None, Response Time: 12574 ms
-Name: 纬来体育, URL: http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68, Date: None, Resolution: None, Response Time: inf ms
-Name: 纬来体育, URL: http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482615, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙卫视, URL: https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880, Date: None, Resolution: None, Response Time: inf ms
-Name: 西藏卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 深圳卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 山西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 天津卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 天津卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 天津卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 天津卫视, URL: http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 宁夏卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 江西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 江西卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙古卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 广东卫视, URL: http://www.namewee.xyz/gudou.php?id=1401, Date: None, Resolution: None, Response Time: 7597 ms
-Name: 广东卫视, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 广东卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 广东卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 四川卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 四川卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 新疆卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 山东卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 山东卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 山东卫视, URL: http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 文化精品, URL: http://mail.petzhu.top:7000/rtp/239.254.201.229:7260, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-4K, URL: http://liveop.cctv.cn/hls/4KHD/playlist.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-17, URL: http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-17, URL: http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-17, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 河南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
@@ -360,44 +238,39 @@ Name: 江苏卫视, URL: http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u
 Name: 江苏卫视, URL: http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏卫视, URL: http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 江苏卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-15, URL: http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-15, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 海南卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 海南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-16, URL: http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-16, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 吉林卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 吉林卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 吉林卫视, URL: http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-16, URL: http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-16, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 河南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-7, URL: http://221.2.36.34:8888/newlive/live/hls/9/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-7, URL: http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-7, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-7, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 河北卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 河北卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-15, URL: http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-15, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 海南卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 海南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-4, URL: http://221.2.36.34:8888/newlive/live/hls/5/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-4, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-4, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 广西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 河北卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 河北卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-14, URL: http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-14, URL: http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-14, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-6, URL: http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-6, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-6, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 东南卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 东南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-12, URL: http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-12, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 安徽卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 安徽卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 重庆卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 重庆卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-13, URL: http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-13, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 贵州卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 贵州卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 贵州卫视, URL: http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 广西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-14, URL: http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-14, URL: http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-14, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 东南卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 东南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-13, URL: http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-13, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-6, URL: http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-6, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-6, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 东方卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 东方卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 东方卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
@@ -405,24 +278,58 @@ Name: 东方卫视, URL: http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u
 Name: 东方卫视, URL: http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 东方卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 东方卫视, URL: http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-12, URL: http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-12, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙少儿, URL: https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙新闻, URL: https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江经济, URL: https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 之江纪录, URL: https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江少儿, URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江新闻, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 东莞新闻, URL: https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 凤凰中文, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 凤凰中文, URL: http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068, Date: None, Resolution: None, Response Time: inf ms
+Name: 凤凰中文, URL: http://pi.0472.org/tv/cbn.php?id=xfjcHD, Date: None, Resolution: None, Response Time: inf ms
+Name: 明珠台, URL: http://r.jdshipin.com/ZQ4kN, Date: None, Resolution: None, Response Time: inf ms
+Name: 兵团卫视, URL: http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202, Date: None, Resolution: None, Response Time: inf ms
+Name: 宁夏卫视, URL: https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 西藏卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 山西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 宁夏卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 江西卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 江西卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙农牧, URL: https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 重庆卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 重庆卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙文体, URL: https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙经济, URL: https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 安徽卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 安徽卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-11, URL: http://221.2.36.34:8888/newlive/live/hls/13/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-11, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-3, URL: http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-3, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-3, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-1, URL: http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-1, URL: http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-1, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-1, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江钱江, URL: https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江民生, URL: https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江教科, URL: https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江国际, URL: https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖北卫视, URL: http://39.134.65.164/PLTV/88888888/224/3221225569/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖北卫视, URL: http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖北卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖北卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖北卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 美亚C+, URL: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 东莞生活, URL: https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-10, URL: http://221.2.36.34:8888/newlive/live/hls/12/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-10, URL: http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-10, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-10, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-3, URL: http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-3, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-3, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-11, URL: http://221.2.36.34:8888/newlive/live/hls/13/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-11, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-2, URL: http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-2, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-2, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-2, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5+, URL: http://221.2.36.34:8888/newlive/live/hls/7/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5+, URL: http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5+, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
@@ -435,24 +342,19 @@ Name: 北京卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u
 Name: 北京卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 北京卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 北京卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-8, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 浙江卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-1, URL: http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-1, URL: http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-1, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-1, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 凤凰香港, URL: http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-9, URL: http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-9, URL: http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-9, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-9, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-9, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-2, URL: http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-2, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-2, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-2, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 纬来体育, URL: http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68, Date: None, Resolution: None, Response Time: inf ms
+Name: 纬来体育, URL: http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482615, Date: None, Resolution: None, Response Time: inf ms
+Name: 纬来体育, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖南卫视, URL: http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖南卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖南卫视, URL: http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
@@ -460,23 +362,121 @@ Name: 湖南卫视, URL: http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u
 Name: 湖南卫视, URL: http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: 湖南卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-9, URL: http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-9, URL: http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-9, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-9, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: CCTV-9, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 翡翠台, URL: https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 翡翠台, URL: http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e, Date: None, Resolution: None, Response Time: inf ms
+Name: 翡翠台, URL: http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv, Date: None, Resolution: None, Response Time: inf ms
+Name: 翡翠台, URL: http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187, Date: None, Resolution: None, Response Time: inf ms
+Name: 翡翠台, URL: http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 第一卫视, URL: http://play2.one-tv.com/live/onetv.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙卫视, URL: https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880, Date: None, Resolution: None, Response Time: inf ms
+Name: 新疆卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5, URL: http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
 Name: CCTV-5, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙文体, URL: https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
-Name: 石狮综合, URL: http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
-Name: 德化新闻综合, URL: http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
-Name: 霞浦综合频道, URL: http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙经济, URL: https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
-Name: 永安综合, URL: http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙农牧, URL: https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
-Name: 霞浦公共, URL: http://218.106.152.196/lsdream/f2Hfjtd/5000/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 天津卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 天津卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 天津卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 天津卫视, URL: http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 浙江卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 深圳卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CCTV-8, URL: http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 内蒙古卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 四川卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 四川卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 广东卫视, URL: http://www.namewee.xyz/gudou.php?id=1401, Date: None, Resolution: None, Response Time: inf ms
+Name: 广东卫视, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 广东卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 广东卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 山东卫视, URL: http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 山东卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 山东卫视, URL: http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: TBS, URL: http://143.244.60.30/TBS/index.m3u8, Date: None, Resolution: None, Response Time: 29 ms
+Name: Fashion TV, URL: http://91.247.68.229:8000/play/Fashion/index.m3u8, Date: None, Resolution: None, Response Time: 324 ms
 Name: 永安综合频道, URL: http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8?fujian, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙少儿, URL: https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
-Name: 内蒙新闻, URL: https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800, Date: None, Resolution: None, Response Time: inf ms
+Name: 龙岩综合, URL: http://live.lytv.net.cn/zhpwd/hd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 漳州新闻, URL: http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 三明综合, URL: http://stream.smntv.cn/smtv1/sd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 三明新闻综合, URL: http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 三明新闻综合, URL: http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 霞浦综合频道, URL: http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 云霄综合, URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian, Date: None, Resolution: None, Response Time: inf ms
+Name: [福建]建宁综合频道, URL: https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 斗鱼4K影院, URL: http://epg.112114.xyz/douyu/9249162, Date: None, Resolution: None, Response Time: inf ms
+Name: 三明公共频道, URL: http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 霞浦公共, URL: http://218.106.152.196/lsdream/f2Hfjtd/5000/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 龙岩公共, URL: http://live.lytv.net.cn/ggpd/sd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 三明公共, URL: http://stream.smntv.cn/smtv2/sd/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 漳州新闻综合, URL: http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 德化新闻综合, URL: http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: 宁化电视一套, URL: http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian, Date: None, Resolution: None, Response Time: inf ms
+Name: 石狮综合, URL: http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud, Date: None, Resolution: None, Response Time: inf ms
+Name: Scripps News, URL: https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: 永安综合, URL: http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: NBC, URL: https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: FOX, URL: https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CNN, URL: https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CNA, URL: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: WionNews, URL: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: SkyNews, URL: https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: BBC, URL: https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: AXS TV Now, URL: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: Newsmax, URL: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: CBN News, URL: https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: GB News, URL: https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: RT News, URL: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8, Date: None, Resolution: None, Response Time: inf ms
+Name: Al Jazeera, URL: http://live-hls-web-aje.getaj.net/AJE/01.m3u8, Date: None, Resolution: None, Response Time: 8585 ms
+Name: Love Nature, URL: https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8, Date: None, Resolution: None, Response Time: 8661 ms
+Name: Fight Network, URL: https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8, Date: None, Resolution: None, Response Time: 8663 ms
+Name: Africa News, URL: https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 8698 ms
+Name: SportsGrid, URL: https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 8875 ms
+Name: BBC Earth, URL: https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8, Date: None, Resolution: None, Response Time: 8919 ms
+Name: Wild Earth, URL: https://wildearth-plex.amagi.tv/masterR1080p.m3u8, Date: None, Resolution: None, Response Time: 8940 ms
+Name: History, URL: https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8, Date: None, Resolution: None, Response Time: 9010 ms
+Name: TED Talks, URL: https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9020 ms
+Name: Trace Sports, URL: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8, Date: None, Resolution: None, Response Time: 9049 ms
+Name: LoveStories, URL: https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9061 ms
+Name: Mytime, URL: https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top, Date: None, Resolution: None, Response Time: 9091 ms
+Name: Arirang, URL: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8, Date: None, Resolution: None, Response Time: 9119 ms
+Name: Taiwan Plus, URL: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8, Date: None, Resolution: None, Response Time: 9127 ms
+Name: Travel XP, URL: https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9139 ms
+Name: Yu-Gi-Oh, URL: https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9167 ms
+Name: Rakuten Viki, URL: https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9189 ms
+Name: Ondemand China, URL: https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9195 ms
+Name: Food, URL: https://food-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9213 ms
+Name: Rakuten Comedy, URL: https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9229 ms
+Name: Rakuten Action, URL: https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9298 ms
+Name: Rakuten British Films, URL: https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9343 ms
+Name: Global Fashion Channel, URL: https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9369 ms
+Name: Museum, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 9386 ms
+Name: Rakuten Thriller, URL: https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9379 ms
+Name: Young Hollywood, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 9402 ms
+Name: ComedyDynamics, URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8, Date: None, Resolution: None, Response Time: 9420 ms
+Name: ION Plus, URL: https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8, Date: None, Resolution: None, Response Time: 9482 ms
+Name: Billiards TV, URL: https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9449 ms
+Name: NBC Sport, URL: https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8, Date: None, Resolution: None, Response Time: 9486 ms
+Name: New KPOP, URL: https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 9467 ms
+Name: RT Documentary, URL: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8, Date: None, Resolution: None, Response Time: 9515 ms
+Name: Xplore, URL: https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8, Date: None, Resolution: None, Response Time: 9548 ms
+Name: Bloomberg Originals, URL: https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8, Date: None, Resolution: None, Response Time: 9582 ms
+Name: Clarity 4K, URL: https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8, Date: None, Resolution: None, Response Time: 9607 ms
+Name: Stadium, URL: https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8, Date: None, Resolution: None, Response Time: 9639 ms
+Name: FIFA+, URL: https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8, Date: None, Resolution: None, Response Time: 9666 ms
+Name: Tastemade, URL: https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8, Date: None, Resolution: None, Response Time: 9686 ms
+Name: MovieSphere, URL: https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8, Date: None, Resolution: None, Response Time: 9812 ms
+Name: La La Life, URL: https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8, Date: None, Resolution: None, Response Time: 9838 ms
+Name: The Lego Channel, URL: https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8, Date: None, Resolution: None, Response Time: 9928 ms
+Name: Vevo Pop, URL: https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8, Date: None, Resolution: None, Response Time: 10351 ms
+Name: Comedy Hub, URL: https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8, Date: None, Resolution: None, Response Time: 10448 ms
+Name: Kids TV, URL: https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8, Date: None, Resolution: None, Response Time: 13348 ms
