@@ -19,6 +19,29 @@ logging.basicConfig(
 )
 
 
+def get_channel_data_from_file(channels, file):
+    """
+    Get the channel data from the file
+    """
+    current_category = ""
+    pattern = r"^(.*?),(?!#genre#)(.*?)$"
+
+    for line in file:
+        line = line.strip()
+        if "#genre#" in line:
+            # This is a new channel, create a new key in the dictionary.
+            current_category = line.split(",")[0]
+        else:
+            # This is a url, add it to the list of urls for the current channel.
+            match = re.search(pattern, line)
+            if match is not None:
+                name = match.group(1).strip()
+                url = match.group(2).strip()
+                if url and url not in channels[current_category][name]:
+                    channels[current_category][name].append(url)
+    return channels
+
+
 def get_channel_items():
     """
     Get the channel items from the source file
@@ -30,25 +53,23 @@ def get_channel_items():
         else getattr(config, "source_file", "demo.txt")
     )
 
+    # Open the old final file and read all lines.
+    user_final_file = (
+        "user_" + config.final_file
+        if os.path.exists("user_" + config.final_file)
+        else getattr(config, "final_file", "result.txt")
+    )
+
     # Create a dictionary to store the channels.
     channels = defaultdict(lambda: defaultdict(list))
-    current_category = ""
-    pattern = r"^(.*?),(?!#genre#)(.*?)$"
 
-    with open(resource_path(user_source_file), "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if "#genre#" in line:
-                # This is a new channel, create a new key in the dictionary.
-                current_category = line.split(",")[0]
-            else:
-                # This is a url, add it to the list of urls for the current channel.
-                match = re.search(pattern, line)
-                if match is not None:
-                    name = match.group(1).strip()
-                    url = match.group(2).strip()
-                    if url and url not in channels[current_category][name]:
-                        channels[current_category][name].append(url)
+    if os.path.exists(resource_path(user_source_file)):
+        with open(resource_path(user_source_file), "r", encoding="utf-8") as file:
+            channels = get_channel_data_from_file(channels, file)
+
+    if config.open_use_old_result and os.path.exists(resource_path(user_final_file)):
+        with open(resource_path(user_final_file), "r", encoding="utf-8") as file:
+            channels = get_channel_data_from_file(channels, file)
 
     return channels
 
@@ -57,6 +78,8 @@ def format_channel_name(name):
     """
     Format the channel name with sub and replace and lower
     """
+    if config.open_keep_all:
+        return name
     sub_pattern = (
         r"-|_|\((.*?)\)|\[(.*?)\]| |频道|标清|高清|HD|hd|超清|超高|超高清|中央|央视|台"
     )
@@ -99,6 +122,8 @@ def channel_name_is_equal(name1, name2):
     """
     Check if the channel name is equal
     """
+    if config.open_keep_all:
+        return True
     cc = OpenCC("t2s")
     name1_converted = cc.convert(format_channel_name(name1))
     name2_converted = cc.convert(format_channel_name(name2))
@@ -134,6 +159,93 @@ def get_element_child_text_list(element, child_name):
     return text_list
 
 
+def get_multicast_ip_list(urls):
+    """
+    Get the multicast ip list from urls
+    """
+    ip_list = []
+    for url in urls:
+        pattern = r"rtp://((\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(?::(\d+))?)"
+        matcher = re.search(pattern, url)
+        if matcher:
+            ip_list.append(matcher.group(1))
+    return ip_list
+
+
+def get_channel_multicast_region_ip_list(result, channel_region, channel_type):
+    """
+    Get the channel multicast region ip list by region and type from result
+    """
+    return [
+        ip
+        for result_region, result_obj in result.items()
+        if result_region in channel_region
+        for type, urls in result_obj.items()
+        if type in channel_type
+        for ip in get_multicast_ip_list(urls)
+    ]
+
+
+def get_channel_multicast_total_url_list(url, ip_list):
+    """
+    Get the channel multicast total url list by url and ip list
+    """
+    total_url_list = []
+    for ip in ip_list:
+        total_url = f"http://{url}/rtp/{ip}"
+        total_url_list.append(total_url)
+    return total_url_list
+
+
+def get_channel_multicast_name_region_type_result(result, names):
+    """
+    Get the multicast name and region and type result by names from result
+    """
+    name_region_type_result = {}
+    for name in names:
+        format_name = format_channel_name(name)
+        data = result.get(format_name)
+        if data:
+            name_region_type_result[format_name] = data
+    return name_region_type_result
+
+
+def get_channel_multicast_region_type_list(result):
+    """
+    Get the channel multicast region type list from result
+    """
+    config_region_list = set(getattr(config, "region_list", []))
+    region_type_list = {
+        (region, type)
+        for region_type in result.values()
+        for region, types in region_type.items()
+        if "all" in config_region_list or region in config_region_list
+        for type in types
+    }
+    return list(region_type_list)
+
+
+def get_channel_multicast_result(result, search_result):
+    """
+    Get the channel multicast info result by result and search result
+    """
+    info_result = {}
+    for name, result_obj in result.items():
+        info_list = [
+            (total_url, date, resolution)
+            for result_region, result_types in result_obj.items()
+            if result_region in search_result
+            for result_type, result_type_urls in result_types.items()
+            if result_type in search_result[result_region]
+            for ip in get_multicast_ip_list(result_type_urls) or []
+            for url, date, resolution in search_result[result_region][result_type]
+            for total_url in get_channel_multicast_total_url_list(url, [ip])
+            if check_url_by_patterns(total_url)
+        ]
+        info_result[name] = info_list
+    return info_result
+
+
 def get_results_from_soup(soup, name):
     """
     Get the results from the soup
@@ -155,6 +267,46 @@ def get_results_from_soup(soup, name):
                                 info_element.get_text(strip=True)
                             )
                             results.append((url, date, resolution))
+    return results
+
+
+def get_results_from_multicast_soup(soup):
+    """
+    Get the results from the multicast soup
+    """
+    results = []
+    for element in soup.descendants:
+        if isinstance(element, NavigableString):
+            text = element.strip()
+            url = get_channel_url(text)
+            if url and not any(item["url"] == url for item in results):
+                url_element = soup.find(lambda tag: tag.get_text(strip=True) == url)
+                if not url_element:
+                    continue
+
+                valid_element = url_element.find_next_sibling()
+                if not valid_element:
+                    continue
+
+                valid_text = valid_element.get_text(strip=True)
+                if "失效" in valid_text:
+                    continue
+
+                info_element = valid_element.find_next_sibling().find_next_sibling()
+                if not info_element:
+                    continue
+
+                info_text = info_element.get_text(strip=True)
+                if "上线" in info_text and " " in info_text:
+                    date, region, type = get_multicast_channel_info(info_text)
+                    results.append(
+                        {
+                            "url": url,
+                            "date": date,
+                            "region": region,
+                            "type": type,
+                        }
+                    )
     return results
 
 
@@ -180,6 +332,42 @@ def get_results_from_soup_requests(soup, name):
                         date, resolution = text_info
                 if url:
                     results.append((url, date, resolution))
+    return results
+
+
+def get_results_from_multicast_soup_requests(soup):
+    """
+    Get the results from the multicast soup by requests
+    """
+    results = []
+    if not soup:
+        return results
+
+    elements = soup.find_all("div", class_="result")
+    for element in elements:
+        name_element = element.find("div", class_="channel")
+        if not name_element:
+            continue
+
+        text_list = get_element_child_text_list(element, "div")
+        url, date, region, type = None, None, None, None
+        valid = True
+
+        for text in text_list:
+            if "失效" in text:
+                valid = False
+                break
+
+            text_url = get_channel_url(text)
+            if text_url:
+                url = text_url
+
+            if url and "上线" in text and " " in text:
+                date, region, type = get_multicast_channel_info(text)
+
+        if url and valid:
+            results.append({"url": url, "date": date, "region": region, "type": type})
+
     return results
 
 
@@ -209,13 +397,13 @@ def get_channel_url(text):
     Get the url from text
     """
     url = None
-    urlRegex = r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
+    urlRegex = r"((http|https)://)?((([0-9]{1,3}\.){3}[0-9]{1,3})|([a-zA-Z0-9-]+\.[a-zA-Z]{2,}))(:[0-9]+)?(/[a-zA-Z0-9-._~:/?#[\]@!$&'()*+,;=%]*)?"
     url_search = re.search(
         urlRegex,
         text,
     )
     if url_search:
-        url = url_search.group()
+        url = url_search.group().strip()
     return url
 
 
@@ -234,6 +422,21 @@ def get_channel_info(text):
             ),
         )
     return date, resolution
+
+
+def get_multicast_channel_info(text):
+    """
+    Get the multicast channel info from text
+    """
+    date, region, type = None, None, None
+    if text:
+        text_split = text.split(" ")
+        filtered_data = list(filter(lambda x: x.strip() != "", text_split))
+        if filtered_data and len(filtered_data) == 4:
+            date = filtered_data[0]
+            region = filtered_data[2]
+            type = filtered_data[3]
+    return date, region, type
 
 
 def init_info_data(data, cate, name):
@@ -258,6 +461,16 @@ def append_data_to_info_data(info_data, cate, name, data, check=True):
     return info_data
 
 
+def append_total_data(*args, **kwargs):
+    """
+    Append total channel data
+    """
+    if config.open_keep_all:
+        return append_all_method_data_keep_all(*args, **kwargs)
+    else:
+        return append_all_method_data(*args, **kwargs)
+
+
 def append_all_method_data(
     items, data, subscribe_result=None, multicast_result=None, online_search_result=None
 ):
@@ -266,44 +479,25 @@ def append_all_method_data(
     """
     for cate, channel_obj in items:
         for name, old_urls in channel_obj.items():
-            if config.open_subscribe:
-                data = append_data_to_info_data(
-                    data,
-                    cate,
-                    name,
-                    get_channel_results_by_name(name, subscribe_result),
-                )
-                print(
-                    name,
-                    "subscribe num:",
-                    len(get_channel_results_by_name(name, subscribe_result)),
-                )
-            if config.open_multicast:
-                data = append_data_to_info_data(
-                    data,
-                    cate,
-                    name,
-                    get_channel_results_by_name(name, multicast_result),
-                )
-                print(
-                    name,
-                    "multicast num:",
-                    len(get_channel_results_by_name(name, multicast_result)),
-                )
-            if config.open_online_search:
-                data = append_data_to_info_data(
-                    data,
-                    cate,
-                    name,
-                    get_channel_results_by_name(name, online_search_result),
-                )
-                print(
-                    name,
-                    "online search num:",
-                    len(get_channel_results_by_name(name, online_search_result)),
-                )
+            for method, result in [
+                ("subscribe", subscribe_result),
+                ("multicast", multicast_result),
+                ("online_search", online_search_result),
+            ]:
+                if getattr(config, f"open_{method}"):
+                    data = append_data_to_info_data(
+                        data,
+                        cate,
+                        name,
+                        get_channel_results_by_name(name, result),
+                    )
+                    print(
+                        name,
+                        f"{method.capitalize()} num:",
+                        len(get_channel_results_by_name(name, result)),
+                    )
             total_channel_data_len = len(data.get(cate, {}).get(name, []))
-            if total_channel_data_len == 0:
+            if total_channel_data_len == 0 or config.open_use_old_result:
                 data = append_data_to_info_data(
                     data,
                     cate,
@@ -318,7 +512,35 @@ def append_all_method_data(
     return data
 
 
-async def sort_channel_list(semaphore, cate, name, info_list, callback):
+def append_all_method_data_keep_all(
+    items, data, subscribe_result=None, multicast_result=None, online_search_result=None
+):
+    """
+    Append all method data to total info data, keep all channel name and urls
+    """
+    for cate, channel_obj in items:
+        for result_name, result in [
+            ("subscribe", subscribe_result),
+            ("multicast", multicast_result),
+            ("online_search", online_search_result),
+        ]:
+            if result and getattr(config, f"open_{result_name}"):
+                for name, urls in result.items():
+                    data = append_data_to_info_data(data, cate, name, urls)
+                    print(name, f"{result_name.capitalize()} num:", len(urls))
+                    if config.open_use_old_result:
+                        old_urls = channel_obj.get(name, [])
+                        data = append_data_to_info_data(
+                            data,
+                            cate,
+                            name,
+                            [(url, None, None) for url in old_urls],
+                        )
+
+    return data
+
+
+async def sort_channel_list(semaphore, cate, name, info_list, is_ffmpeg, callback):
     """
     Sort the channel list
     """
@@ -326,7 +548,9 @@ async def sort_channel_list(semaphore, cate, name, info_list, callback):
         data = []
         try:
             if info_list:
-                sorted_data = await sort_urls_by_speed_and_resolution(info_list)
+                sorted_data = await sort_urls_by_speed_and_resolution(
+                    info_list, is_ffmpeg
+                )
                 if sorted_data:
                     for (
                         url,
